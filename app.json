@@ -51,7 +51,12 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"SKOOBY"
+        },
+        "BOT_INFO": {
+            "description": "Name of BOT, OWNER,WHATSAPP GROUP",
+            "required": true,
+            "value":"𝐒𝐊𝐎𝐎𝐁𝐘 𝐕.3;𝗡𝗶𝗰𝗵𝘂 𝘃𝗱𝗿;917994107442;https://i.imgur.com/BdK2FXQ.jpeg;https://chat.whatsapp.com/CZ5k2wN4HslD62oiLth8TB"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
