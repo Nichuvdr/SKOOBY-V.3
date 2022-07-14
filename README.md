@@ -1,4 +1,4 @@
-# _𝐒𝐊𝐎𝐎𝐁𝐘-𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 𝐁𝐎𝐓_
+# _𝐒𝐊𝐎𝐎𝐁𝐘-𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓_
 <div align="center">
   
 <a href="https://github.com/Nichuvdr/SKOOBY-V.3/fork"><img align="center" src="https://i.imgur.com/PCOVMuq.jpeg" alt="Scan QR" height="60" width="60" /></a>
