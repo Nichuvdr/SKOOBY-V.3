@@ -8,8 +8,11 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://github.com/Nichuvdr/SKOOBY-V.3/fork"><img align="center" src="https://i.imgur.com/PCOVMuq.jpeg" alt="Scan QR" height="80" width="80" />FORK</a>
-<a href="https://raganork-qr.herokuapp.com/api/hidden-qr-md" target="blank"><img align="center" src="https://i.imgur.com/kALrtCJ.jpeg" alt="Deploy bot" height="80" width="80" />DEPLOY</a>
-<a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Fork and deploy" height="80" width="80" />SCAN</a>
+<a href="https://github.com/Nichuvdr/SKOOBY-V.3/fork"><img align="center" src="https://i.imgur.com/PCOVMuq.jpeg" alt="Scan QR" height="80" width="80" />
+FORK</a>
+<a href="https://raganork-qr.herokuapp.com/api/hidden-qr-md" target="blank"><img align="center" src="https://i.imgur.com/kALrtCJ.jpeg" alt="Deploy bot" height="80" width="80" />
+DEPLOY</a>
+<a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNichuvdr%2FSKOOBY-V.3"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Fork and deploy" height="80" width="80" />
+SCAN</a>
 
 
