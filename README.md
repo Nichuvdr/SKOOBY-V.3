@@ -1,4 +1,4 @@
-# _Raganork-multi-device_
+# _𝐒𝐊𝐎𝐎𝐁𝐘-𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄 𝐁𝐎𝐓_
 ## _Multi device whatsapp bot created with [@adiwajshing/baileys](https://github.com/adiwajshing/Baileys)_
 #### _Looking for non multi device version? Get it [here](https://github.com/souravkl11/raganork-legacy)_
 <!---## Readme first before using 👇❌
@@ -20,6 +20,3 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 <div>
   <br>
 
-## _[How to use? Documentation](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
-
-## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
