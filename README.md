@@ -8,7 +8,7 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Scan QR" height="180" width="180" /></a>
 <br>
 <div>
 <br>
