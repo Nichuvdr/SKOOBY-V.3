@@ -8,8 +8,8 @@ Visit [Heroku status site](https://status.heroku.com) for more details
 -->
 <div align="center">
   
-<a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/PCOVMuq.jpeg" alt="Scan QR" height="80" width="80" /></a>
-<a href="https://raganork-qr.herokuapp.com/api/hidden-qr-md" target="blank"><img align="center" src="https://i.imgur.com/kALrtCJ.jpeg" alt="Deploy bot" height="80" width="80" /></a>
-<a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Fork and deploy" height="80" width="80" /></a>
+<a href="https://github.com/Nichuvdr/SKOOBY-V.3/fork"><img align="center" src="https://i.imgur.com/PCOVMuq.jpeg" alt="Scan QR" height="80" width="80" />FORK</a>
+<a href="https://raganork-qr.herokuapp.com/api/hidden-qr-md" target="blank"><img align="center" src="https://i.imgur.com/kALrtCJ.jpeg" alt="Deploy bot" height="80" width="80" />DEPLOY</a>
+<a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/kh4JjxC.jpeg" alt="Fork and deploy" height="80" width="80" />SCAN</a>
 
 
