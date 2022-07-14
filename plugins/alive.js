@@ -33,8 +33,8 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'How to',
+        url: 'https://youtu.be/JorkZ-tTv7Q'
     }
 }, {
   urlButton: {
